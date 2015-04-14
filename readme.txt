@@ -61,7 +61,6 @@ OR...
 == Translations ==
 
 * English - default, always included.
-
 * All my plugins are localized/translateable by default. 
 * This is very important for all users worldwide. So please contribute your language to the plugin to make it even more useful. 
 * For translating; I recommend the awesome ["Codestyling Localization" plugin](http://wordpress.org/extend/plugins/codestyling-localization/) and for validating; the ["Poedit Editor"](http://www.poedit.net/).
