@@ -13,6 +13,20 @@ Configure email notifications for post/page status changes.
 == Description ==
 Configure email notifications for post/page status changes.
 
+= Fully Customizable =
+* Use custom rules to create unlimited email notifications.
+* Includes posts, pages and any custom post types.
+* Handles default WordPress roles as well as custom created user roles.
+* Create groups of users; then assign the groups to the custom rules.
+
+= Customizable Email Settings =
+* Decide what information will be sent in emails.
+
+= Early Stages Plugin =
+This is a plugin still in it's very early stages of development.
+
+Any suggestions, ideas or feature requests can be submitted on the [Plugin Support](https://wordpress.org/support/plugin/wp-post-status-notifications) page.
+
 == Installation ==
 * From the WP admin panel, click "Plugins" -> "Add new".
 * In the browser input box, type "WP Post Status Notifications".
@@ -36,8 +50,21 @@ OR...
 * Upload the extracted "wp_post_status_notifications" folder to this directory location.
 * Open the WP admin panel.. click the "Plugins" page.. and click "Activate" under the newly added "WP Post Status Notifications" plugin.
 
+== Screenshots ==
+1. Create unlimited custom groups; assinging users as desired.
+2. Next, create custom rules to determine how emails should be sent.
+3. Email settings are fully configurable.
+
 == Frequently Asked Questions ==
-Nothing Yet.
+* Nothing yet.
+
+== Translations ==
+
+* English - default, always included.
+
+* All my plugins are localized/translateable by default. 
+* This is very important for all users worldwide. So please contribute your language to the plugin to make it even more useful. 
+* For translating; I recommend the awesome ["Codestyling Localization" plugin](http://wordpress.org/extend/plugins/codestyling-localization/) and for validating; the ["Poedit Editor"](http://www.poedit.net/).
 
 == Changelog ==
 = 1.0 =
