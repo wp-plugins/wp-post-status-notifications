@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Post Status Notifications\n"
+"POT-Creation-Date: 2015-04-05 16:39-0500\n"
+"PO-Revision-Date: 2015-04-05 16:40-0500\n"
+"Last-Translator: \n"
+"Language-Team: Josh Lobe <joshlobe@joshlobe.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp_post_status_notifications.php:83
+msgid "Settings"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:110
+msgid "Notifications"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:124
+msgid "WP Post Status Notifications"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:128
+#: ../wp_post_status_notifications.php:140
+msgid "Welcome"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:129
+#: ../wp_post_status_notifications.php:178
+msgid "Post Types"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:130
+msgid "Groups"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:131
+#: ../wp_post_status_notifications.php:303
+msgid "Rules"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:132
+#: ../wp_post_status_notifications.php:419
+msgid "Email"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:142
+msgid ""
+"This plugin will send email notifications when a post, page or custom post "
+"type status is changed."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:145
+msgid "Step 1: Select Post Types"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:147
+msgid ""
+"The first step is to select which post types will be used for the email "
+"notifications."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:148
+msgid "Click the \"Post Types\" tab; and select which post types will be used."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:151
+msgid "Step 2: Create User Groups"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:153
+msgid "The next step is to create user groups."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:154
+msgid "At minimum, one \"From\" group and one \"To\" group should be created."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:155
+msgid ""
+"Think of this as what group is being \"watched\"; and what group should be "
+"\"alerted\"."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:156
+msgid "Click the \"Groups\" tab to get started."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:159
+msgid "Step 3: Create Mailing Rules"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:161
+msgid "Next, the mailing rules need to be created."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:162
+msgid "These will determine when an email will be sent."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:163
+msgid "Click the \"Rules\" tab to get started."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:166
+msgid "Step 4: Set Email Options"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:168
+msgid "Lastly, the email options can be configured."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:169
+msgid ""
+"Use these options to display what information will be shown in the email."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:170
+msgid "Click the \"Email\" tab to get started."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:180
+msgid "Include these post types."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:187
+msgid "Post Type"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:189
+#: ../wp_post_status_notifications.php:430
+msgid "Yes/No"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:209
+msgid "Save Options"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:218
+msgid "Users"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:220
+msgid "Select which users will be assigned to this group."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:224
+msgid "Subscribers"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:225
+msgid "Contributors"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:226
+msgid "Authors"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:227
+msgid "Editors"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:228
+msgid "Admins"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:246
+msgid "Enter a name for this group."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:249
+#: ../wp_post_status_notifications.php:250
+msgid "Create Group"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:251
+msgid "Clear All"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:255
+msgid "Created Groups"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:263
+msgid "Group Name"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:263
+msgid "Group Users"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:263
+#: ../wp_post_status_notifications.php:394
+msgid "Action"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:280
+#: ../wp_post_status_notifications.php:398
+msgid "Delete"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:305
+msgid "Create mailing rules; which determine when an email will be sent."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:312
+msgid "No groups have yet been created. Please create a group to continue."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:323
+msgid "Step 1"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:323
+msgid "When (this group) "
+msgstr ""
+
+#: ../wp_post_status_notifications.php:327
+#: ../wp_post_status_notifications.php:342
+#: ../wp_post_status_notifications.php:358
+#: ../wp_post_status_notifications.php:374
+msgid "..."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:338
+msgid "Step 2"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:338
+msgid "Changes a post status from "
+msgstr ""
+
+#: ../wp_post_status_notifications.php:343
+#: ../wp_post_status_notifications.php:359
+msgid "Any Status"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:354
+msgid "Step 3"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:354
+msgid "To a post status of "
+msgstr ""
+
+#: ../wp_post_status_notifications.php:370
+msgid "Step 4"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:370
+msgid "Notify (this group) "
+msgstr ""
+
+#: ../wp_post_status_notifications.php:385
+#: ../wp_post_status_notifications.php:386
+msgid "Submit Rule"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:390
+msgid "Created Rules"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:394
+msgid "Group From"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:394
+msgid "Post From"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:394
+msgid "Post To"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:394
+msgid "Group To"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:414
+#: ../wp_post_status_notifications.php:731
+msgid "WordPress Post Status Notification"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:421
+msgid "Select which information will display in the email."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:428
+msgid "Include in Email"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:435
+msgid "Post Title"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:440
+msgid "Post Author"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:445
+msgid "Old Status"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:450
+msgid "New Status"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:455
+msgid "Changed By"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:460
+msgid "Post Content"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:472
+msgid "Email Subject"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:476
+msgid "From Address"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:479
+#: ../wp_post_status_notifications.php:486
+msgid "If blank; admin email will be used."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:483
+msgid "Reply To Address"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:491
+msgid "Save Email Options"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:521
+msgid "Post Types Options successfully updated."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:538
+msgid "This Group Name already exists. Group Names must be unique."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:554
+msgid "Group has been created successfully."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:581
+msgid "The new Rule was added successfully."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:611
+msgid "Email options updated successfully."
+msgstr ""
+
+#: ../wp_post_status_notifications.php:765
+msgid "Post Title:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:768
+msgid "Post Author:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:771
+msgid "Old Status:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:774
+msgid "New Status:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:777
+msgid "Changed By:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:780
+msgid "Post Content:"
+msgstr ""
+
+#: ../wp_post_status_notifications.php:785
+msgid "You have received this email from "
+msgstr ""
+
+#: ../wp_post_status_notifications.php:785
+msgid "; WP Post Status Notifications plugin."
+msgstr ""
